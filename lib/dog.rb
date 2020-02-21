@@ -24,4 +24,9 @@ class Dog
   def save
     @@all << self
   end
+  
+  def clear_all
+    
+  end
+  
 end
